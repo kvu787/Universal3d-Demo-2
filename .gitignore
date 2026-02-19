@@ -49,3 +49,5 @@
 # Users can’t normally see these files because they are created and deleted within milliseconds, but they still trigger the file system watcher and they are not ignored, it can heavily impact the performance of the pending changes calculation.
 # https://discussions.unity.com/t/unity-vc-keeps-adding-unitydirmonsyncfile-to-ignore-conf/1603715
 ~UnityDirMonSyncFile~*
+
+/MyBuildFolder/
