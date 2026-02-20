@@ -17,9 +17,6 @@
 /Logs/
 /ExportedObj/
 
-*.private
-*.private.meta
-
 /.vs
 /.vscode
 /.idea
