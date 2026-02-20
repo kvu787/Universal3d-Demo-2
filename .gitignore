@@ -17,7 +17,8 @@
 /Logs/
 /ExportedObj/
 
-/.vs
+# Visual Studio uses this folder to store user-specific settings
+/.vs/
 /.vscode
 /.idea
 /.gradle
