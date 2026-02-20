@@ -20,11 +20,11 @@
 *.private
 *.private.meta
 
-.vs
-.vscode
-.idea
-.gradle
-.consulo
+/.vs
+/.vscode
+/.idea
+/.gradle
+/.consulo
 
 *.csproj
 *.unityproj
