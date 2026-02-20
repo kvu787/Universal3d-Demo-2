@@ -17,12 +17,11 @@
 /Logs/
 /ExportedObj/
 
-# Visual Studio uses this folder to store user-specific settings
+# Visual Studio uses this folder to store user-specific settings.
 /.vs/
-/.vscode
-/.idea
-/.gradle
-/.consulo
+
+# Visual Studio Code uses this folder to store user-specific settings.
+/.vscode/
 
 *.csproj
 *.unityproj
